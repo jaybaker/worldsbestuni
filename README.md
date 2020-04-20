@@ -1,6 +1,6 @@
 # The World's Best University
 
-** Introduction **
+**Introduction**
 ------------------------------
 
 We enjoy an embarrassment of riches when it comes to online 
