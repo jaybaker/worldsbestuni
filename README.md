@@ -9,6 +9,9 @@ teaching, tutorial resources, etc.
 This is a living collection, bookmarks really, of resources that may 
 be useful if you are interested in some of the same things that interest me.
 
+Expect see see links to code repositories, papers and articles, 
+YouTube videos, and books.
+
 ***
 ## Contents
 
