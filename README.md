@@ -27,6 +27,5 @@ YouTube videos, and books.
 ### Curated Online Course Resources
 
 [Open Source Society University](https://github.com/ossu/computer-science)
-
 This is an excellent source of computer science related courses.
 There are pointers to basics in math and programming as well as advanced topics.
