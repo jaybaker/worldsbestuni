@@ -36,3 +36,7 @@ There are pointers to basics in math and programming as well as advanced topics.
 [CS Lectures with Video](https://github.com/Developer-Y/cs-video-courses) `github`
 
 [Awesome Data Science](https://github.com/academic/awesome-datascience) `github`
+
+***
+### Journals
+[Complex Systems Journal](https://www.complex-systems.com/archives/)
