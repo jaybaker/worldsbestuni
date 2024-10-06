@@ -26,6 +26,8 @@ YouTube videos, and books.
 ***
 ### Curated Online Course Resources
 
+[Harvard EdX](https://www.edx.org/school/harvardx)
+
 [Open Source Society University](https://github.com/ossu/computer-science) `github`
 
 This is an excellent source of computer science related courses.
